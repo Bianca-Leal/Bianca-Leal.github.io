@@ -1,2 +1,2 @@
-# Bianca-Leal.github.io
+# Curriculo.github.io
 Currículo do Jornada Dev
